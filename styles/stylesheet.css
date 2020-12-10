@@ -129,7 +129,7 @@ article h3, article p, article ul, article li, article figure, aside h3, aside u
   align-items: center;
   margin-left: 1rem;
   margin-right: 1rem;
-  /* justify-content: space-around; */
+  justify-content: space-around;
   border: 1px dashed #444444;
   border-radius: 5px;
   padding: 0 1em;
@@ -144,7 +144,7 @@ article h3, article p, article ul, article li, article figure, aside h3, aside u
   align-items: center;
   margin-left: 1rem;
   margin-right: 1rem;
-  justify-content: space-between;
+  justify-content: space-around;
   border: 1px dashed #444444;
   border-radius: 5px;
   padding: 0 1em;
