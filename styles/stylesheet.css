@@ -17,6 +17,16 @@ header {
   padding-left: 2rem;
   padding-right: 2rem;
 }
+.hidden {
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  height: 1px; width: 1px;
+  margin: -1px; padding: 0; border: 0;
+}
+/* .hidden:focus {
+  left: 0;
+} */
 /* Nav styling */
 nav ul {
   list-style-type: none; /* removes bullet points */
